@@ -13,6 +13,7 @@ Curating awesome GitHub organizations
 - [Companies](#companies)
 - [Cloud](#cloud)
 - [Web](#web)
+- [unified [unifiedjs]](https://github.com/unifiedjs) - content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
 - [Database](#database)
 - [User Interface](#user-interface)
 - [Analytics](#analytics)
