@@ -21,6 +21,7 @@ Curating awesome GitHub organizations
 
 ### Companies
 <!-- @companies -->
+- [Optum [optum]](https://github.com/optum) - lmao
 - [Vercel [vercel]](https://github.com/vercel) - Develop. Preview. Ship. Creators of Next.js.
 - [Prisma [prisma]](https://github.com/prisma) - Prisma makes working with databases easy
 - [Microsoft [microsoft]](https://github.com/microsoft) - Open source projects and samples from Microsoft
