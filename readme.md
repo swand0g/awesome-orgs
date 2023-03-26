@@ -35,6 +35,7 @@ Curating awesome GitHub organizations
 
 ### Web
 <!-- @web -->
+- [unified [unifiedjs]](https://github.com/unifiedjs) - content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
 - [Oven [oven-sh]](https://github.com/oven-sh) - The company behind Bun, the incredibly fast JavaScript runtime, bundler, transpiler and package manager.
 - [Vue [vuejs]](https://github.com/vuejs)
 - [Nuxt [nuxt]](https://github.com/nuxt) - The Intuitive Vue Framework
